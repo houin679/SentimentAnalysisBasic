@@ -1,8 +1,4 @@
 # SentimentAnalysisBasic
-Certainly! Here's a
----
-
-# Sentiment Analysis Project
 
 ## Introduction
 
