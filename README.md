@@ -7,7 +7,7 @@ Certainly! Here's a brief "READ ME" document for a S=
 
 ## Introduction
 
-Welcome to the Sentiment Analysis project! This document provides an overview of the project, its purpose, and instructions on how to use it.
+Welcome to the Sentiment Analysis project! This document provides an overview of the project, its purpose, and instructions on ho
 
 ## Purpose
 
