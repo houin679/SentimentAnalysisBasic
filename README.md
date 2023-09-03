@@ -28,9 +28,7 @@ You can customize the project in several ways:
 
 - **Visualization**: Create visualizations (e.g., charts or graphs) to represent sentiment trends over time or by specific categories.
 
-## Troubleshooting
 
-If you encounter issues or need further assistance, refer to the project documentation or reach out to the project team for support.
 
 ## Conclusion
 
