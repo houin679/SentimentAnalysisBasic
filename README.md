@@ -1,6 +1,5 @@
 # SentimentAnalysisBasic
-Certainly! Here's a brief "READ ME" document for a S=
-
+Certainly! Here's a
 ---
 
 # Sentiment Analysis Project
