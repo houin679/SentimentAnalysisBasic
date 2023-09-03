@@ -1,9 +1,5 @@
 # SentimentAnalysisBasic
 
-## Introduction
-
-Welcome to the Sentiment Analysis project! This document provides an overview of the project, its purpose, and instructions on ho
-
 ## Purpose
 
 The primary goal of this project is to analyze the sentiment (positive, negative, or neutral) of text data. Sentiment analysis can be applied to a wide range of applications, including social media monitoring, customer feedback analysis, and more.
